@@ -1,4 +1,4 @@
-## Ola! Eu sou Jhonatabenevides.
+## Ola! Eu sou Jhonatabenevides, estudando de programação e técnologias
 
 - 🌱 Estudando  front-end 
 - 😄 Pronouns: ele/dele
